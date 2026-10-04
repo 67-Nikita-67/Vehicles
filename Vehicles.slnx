@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Vehicles.core/Vehicles.core.csproj" />
+  <Project Path="Vehicles.WpfApp/Vehicles.WpfApp.csproj" />
+</Solution>
